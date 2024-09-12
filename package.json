@@ -1,0 +1,21 @@
+{
+  "name": "wayone",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/motion": "^2.0.0-beta.12",
+    "gsap": "^3.11.5",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "nodemailer": "^6.9.1",
+    "vite": "^4.1.4"
+  }
+}
